@@ -1,0 +1,48 @@
+/*
+#zeiten{
+    align-content: 	center;
+    margin-top: 25%;
+    width: 100%; 
+   
+
+}*/ 
+
+#tage{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    background-color: darkgray;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+#stunden{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    background-color: darkgray;
+    text-align: center;
+    font-size: 50px;
+
+}
+#minuten{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    background-color: darkgray;
+    text-align: center;
+    font-size: 50px;
+}
+#sekunden{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    background-color: darkgray;
+    text-align: center;
+    font-size: 50px;
+}
+/*
+#angaben{
+    text-align: center;
+}*/
